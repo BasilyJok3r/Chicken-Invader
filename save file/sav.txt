@@ -1,0 +1,2 @@
+NickName=Guest
+HighestScore=0
